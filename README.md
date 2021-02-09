@@ -23,4 +23,4 @@ melakukan booting. Aplikasi harus bisa menerima obyek broadcast yang dikirimkan 
 
 ![WhatsApp Image 2021-02-09 at 11 43 23 AM (3)](https://user-images.githubusercontent.com/54633534/107319605-b1491d00-6ad1-11eb-9fab-16917dcace1e.jpeg)
 
-### Sekian Terima Kasih
+### Sekian Terima Kasih :)
