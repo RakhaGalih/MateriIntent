@@ -23,4 +23,23 @@ melakukan booting. Aplikasi harus bisa menerima obyek broadcast yang dikirimkan 
 
 ![WhatsApp Image 2021-02-09 at 11 43 23 AM (3)](https://user-images.githubusercontent.com/54633534/107319605-b1491d00-6ad1-11eb-9fab-16917dcace1e.jpeg)
 
+# Pembahasan Soal
+##  perbedaan linear layout, relative layout, dan constraint layout.
+
+### Linear Layout
+> - [x] Penataan Objek menggunakan kolom dan baris yang dapat disusun secara vertikal maupun horizontal.
+### Relative Layout
+> - [x] Penataan Objek bersifat relatif atau bergantung kepada view yang lain. Jadi kita dapat meletakkan dimana saja mau di sisi kanan, kiri, atas, ataupun bawah dari objek lain sesuka hati kita.
+### Constraint Layout
+> - [x] Penataan Objek seperti pada Relative Layout. Namun, lebih fleksibel karena dapat diedit menggunakan Editor Layout pada Android Studio.
+
+## method onCreate dan onPause pada activity.
+
+> ![activityCycle](https://user-images.githubusercontent.com/54633534/107361786-7ca58780-6b0a-11eb-972d-d906b0ae460b.jpg)
+
+### onCreate
+> - [x] Ketika sebuah activity dibuat, pada method inilah kita melakukan inisialisasi seperti create view, list data, dan lain-lain.
+### onPause
+> - [x] Ketika sebuah activity lainnya dipanggil atau dimulai, method ini digunakan ketika data tidak harus disimpan kedalam system secara permanen.
+
 ### Sekian Terima Kasih :)
